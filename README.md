@@ -5,6 +5,13 @@
 I build data projects using Python, SQL and Streamlit to turn raw data into clear business insights.
 
 ---
+## 📊 About My Work
+
+- 🔭 Currently building: LLM Performance Tracker
+- 🌱 Currently learning: Data Analytics & ML
+- 💼 Looking for: Data Analyst roles in Hyderabad
+- 🏆 Projects completed: 5+
+- 📧 Email: salmashaik55301@gmail.com
 
 ## 🛠 Skills
 
@@ -54,9 +61,8 @@ I build data projects using Python, SQL and Streamlit to turn raw data into clea
 
 ## 📊 GitHub Stats
 
-![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=35043504&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=35043504&layout=compact&theme=tokyonight&hide_border=true)
+![Salma's GitHub stats](https://github-readme-stats...)
+![Top Languages](https://github-readme-stats...)
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-salma-b982a6349/)
